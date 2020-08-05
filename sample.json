@@ -1,0 +1,16 @@
+{
+  "name": "Amirhosein" ,
+  "Age" : 50,
+  "Average": 19.99,
+  "IsAlive": true,
+  "projects": [
+    {
+      "name": "A",
+      "money": 2020
+    },
+    {
+      "name": "B",
+      "money": 3030
+    }
+  ]
+}

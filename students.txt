@@ -1,0 +1,7 @@
+Iraj:Ghamarie:90:Signal;20;3,Mabani;20;2,Network;10;6
+Alireza:Tr:90:Signal;0;3,Mabani;17;2,Network;10;6
+Mona:Mq:90:Signal;15;3,Mabani;19.5;2,Network;20;6
+Leila:SL:90:Signal;3;3,Mabani;1;2,Network;9.5;6
+Amirhosein:SSH:90:Signal;20;3,Mabani;20;2,Network;20;6
+Amin:CPN:90:Signal;10;3,Mabani;10;2,Network;10;6
+Hosein:RCS:90:Signal;0;3,Mabani;17;2,Network;10;6
